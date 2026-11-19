@@ -1,0 +1,706 @@
+{
+ "description": "Gerbil demo board: a place for macaroni mice (made-up)",
+ "last_modify": 1794900000,
+ "menu_list": [
+  {
+   "category_name": "巣穴・住まい",
+   "category_total": 7,
+   "category_content": [
+    {
+     "board_name": "巣材",
+     "category_order": 1,
+     "category_name": "巣穴・住まい",
+     "url": "https://gloria0021.github.io/nest/",
+     "directory_name": "nest",
+     "category": 1
+    },
+    {
+     "board_name": "床材",
+     "category_order": 1,
+     "category_name": "巣穴・住まい",
+     "url": "https://gloria0021.github.io/bedding/",
+     "directory_name": "bedding",
+     "category": 1
+    },
+    {
+     "board_name": "トンネル",
+     "category_order": 1,
+     "category_name": "巣穴・住まい",
+     "url": "https://gloria0021.github.io/tunnel/",
+     "directory_name": "tunnel",
+     "category": 1
+    },
+    {
+     "board_name": "ケージ",
+     "category_order": 1,
+     "category_name": "巣穴・住まい",
+     "url": "https://gloria0021.github.io/cage/",
+     "directory_name": "cage",
+     "category": 1
+    },
+    {
+     "board_name": "巣箱",
+     "category_order": 1,
+     "category_name": "巣穴・住まい",
+     "url": "https://gloria0021.github.io/nestbox/",
+     "directory_name": "nestbox",
+     "category": 1
+    },
+    {
+     "board_name": "隠れ家",
+     "category_order": 1,
+     "category_name": "巣穴・住まい",
+     "url": "https://gloria0021.github.io/hideout/",
+     "directory_name": "hideout",
+     "category": 1
+    },
+    {
+     "board_name": "引っ越し",
+     "category_order": 1,
+     "category_name": "巣穴・住まい",
+     "url": "https://gloria0021.github.io/moving/",
+     "directory_name": "moving",
+     "category": 1
+    }
+   ]
+  },
+  {
+   "category_name": "ごはん",
+   "category_total": 8,
+   "category_content": [
+    {
+     "board_name": "ひまわりの種",
+     "category_order": 2,
+     "category_name": "ごはん",
+     "url": "https://gloria0021.github.io/sunflower/",
+     "directory_name": "sunflower",
+     "category": 2
+    },
+    {
+     "board_name": "かぼちゃの種",
+     "category_order": 2,
+     "category_name": "ごはん",
+     "url": "https://gloria0021.github.io/pumpkin/",
+     "directory_name": "pumpkin",
+     "category": 2
+    },
+    {
+     "board_name": "ペレット",
+     "category_order": 2,
+     "category_name": "ごはん",
+     "url": "https://gloria0021.github.io/pellet/",
+     "directory_name": "pellet",
+     "category": 2
+    },
+    {
+     "board_name": "乾燥野菜",
+     "category_order": 2,
+     "category_name": "ごはん",
+     "url": "https://gloria0021.github.io/veggie/",
+     "directory_name": "veggie",
+     "category": 2
+    },
+    {
+     "board_name": "おやつ",
+     "category_order": 2,
+     "category_name": "ごはん",
+     "url": "https://gloria0021.github.io/treat/",
+     "directory_name": "treat",
+     "category": 2
+    },
+    {
+     "board_name": "水飲み",
+     "category_order": 2,
+     "category_name": "ごはん",
+     "url": "https://gloria0021.github.io/water/",
+     "directory_name": "water",
+     "category": 2
+    },
+    {
+     "board_name": "貯食",
+     "category_order": 2,
+     "category_name": "ごはん",
+     "url": "https://gloria0021.github.io/stash/",
+     "directory_name": "stash",
+     "category": 2
+    },
+    {
+     "board_name": "新作フード",
+     "category_order": 2,
+     "category_name": "ごはん",
+     "url": "https://gloria0021.github.io/newfood/",
+     "directory_name": "newfood",
+     "category": 2
+    }
+   ]
+  },
+  {
+   "category_name": "運動",
+   "category_total": 6,
+   "category_content": [
+    {
+     "board_name": "回し車",
+     "category_order": 3,
+     "category_name": "運動",
+     "url": "https://gloria0021.github.io/wheel/",
+     "directory_name": "wheel",
+     "category": 3
+    },
+    {
+     "board_name": "かじり木",
+     "category_order": 3,
+     "category_name": "運動",
+     "url": "https://gloria0021.github.io/chew/",
+     "directory_name": "chew",
+     "category": 3
+    },
+    {
+     "board_name": "砂浴び",
+     "category_order": 3,
+     "category_name": "運動",
+     "url": "https://gloria0021.github.io/sandbath/",
+     "directory_name": "sandbath",
+     "category": 3
+    },
+    {
+     "board_name": "穴掘り",
+     "category_order": 3,
+     "category_name": "運動",
+     "url": "https://gloria0021.github.io/digging/",
+     "directory_name": "digging",
+     "category": 3
+    },
+    {
+     "board_name": "部屋んぽ",
+     "category_order": 3,
+     "category_name": "運動",
+     "url": "https://gloria0021.github.io/walk/",
+     "directory_name": "walk",
+     "category": 3
+    },
+    {
+     "board_name": "筋トレ",
+     "category_order": 3,
+     "category_name": "運動",
+     "url": "https://gloria0021.github.io/training/",
+     "directory_name": "training",
+     "category": 3
+    }
+   ]
+  },
+  {
+   "category_name": "暮らし",
+   "category_total": 9,
+   "category_content": [
+    {
+     "board_name": "毛づくろい",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/grooming/",
+     "directory_name": "grooming",
+     "category": 4
+    },
+    {
+     "board_name": "昼寝",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/nap/",
+     "directory_name": "nap",
+     "category": 4
+    },
+    {
+     "board_name": "夜ふかし",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/night/",
+     "directory_name": "night",
+     "category": 4
+    },
+    {
+     "board_name": "季節の過ごし方",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/season/",
+     "directory_name": "season",
+     "category": 4
+    },
+    {
+     "board_name": "掃除",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/cleaning/",
+     "directory_name": "cleaning",
+     "category": 4
+    },
+    {
+     "board_name": "健康",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/health/",
+     "directory_name": "health",
+     "category": 4
+    },
+    {
+     "board_name": "体重管理",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/weight/",
+     "directory_name": "weight",
+     "category": 4
+    },
+    {
+     "board_name": "長生き",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/longevity/",
+     "directory_name": "longevity",
+     "category": 4
+    },
+    {
+     "board_name": "歯の手入れ",
+     "category_order": 4,
+     "category_name": "暮らし",
+     "url": "https://gloria0021.github.io/teeth/",
+     "directory_name": "teeth",
+     "category": 4
+    }
+   ]
+  },
+  {
+   "category_name": "家族",
+   "category_total": 6,
+   "category_content": [
+    {
+     "board_name": "子育て",
+     "category_order": 5,
+     "category_name": "家族",
+     "url": "https://gloria0021.github.io/kids/",
+     "directory_name": "kids",
+     "category": 5
+    },
+    {
+     "board_name": "兄弟姉妹",
+     "category_order": 5,
+     "category_name": "家族",
+     "url": "https://gloria0021.github.io/siblings/",
+     "directory_name": "siblings",
+     "category": 5
+    },
+    {
+     "board_name": "つがい",
+     "category_order": 5,
+     "category_name": "家族",
+     "url": "https://gloria0021.github.io/pair/",
+     "directory_name": "pair",
+     "category": 5
+    },
+    {
+     "board_name": "大家族",
+     "category_order": 5,
+     "category_name": "家族",
+     "url": "https://gloria0021.github.io/group/",
+     "directory_name": "group",
+     "category": 5
+    },
+    {
+     "board_name": "なわばり",
+     "category_order": 5,
+     "category_name": "家族",
+     "url": "https://gloria0021.github.io/territory/",
+     "directory_name": "territory",
+     "category": 5
+    },
+    {
+     "board_name": "名前",
+     "category_order": 5,
+     "category_name": "家族",
+     "url": "https://gloria0021.github.io/names/",
+     "directory_name": "names",
+     "category": 5
+    }
+   ]
+  },
+  {
+   "category_name": "飼い主",
+   "category_total": 7,
+   "category_content": [
+    {
+     "board_name": "飼い主観察",
+     "category_order": 6,
+     "category_name": "飼い主",
+     "url": "https://gloria0021.github.io/owners/",
+     "directory_name": "owners",
+     "category": 6
+    },
+    {
+     "board_name": "手のひら",
+     "category_order": 6,
+     "category_name": "飼い主",
+     "url": "https://gloria0021.github.io/hands/",
+     "directory_name": "hands",
+     "category": 6
+    },
+    {
+     "board_name": "なでなで",
+     "category_order": 6,
+     "category_name": "飼い主",
+     "url": "https://gloria0021.github.io/petting/",
+     "directory_name": "petting",
+     "category": 6
+    },
+    {
+     "board_name": "声かけ",
+     "category_order": 6,
+     "category_name": "飼い主",
+     "url": "https://gloria0021.github.io/voices/",
+     "directory_name": "voices",
+     "category": 6
+    },
+    {
+     "board_name": "通院",
+     "category_order": 6,
+     "category_name": "飼い主",
+     "url": "https://gloria0021.github.io/vet/",
+     "directory_name": "vet",
+     "category": 6
+    },
+    {
+     "board_name": "お留守番",
+     "category_order": 6,
+     "category_name": "飼い主",
+     "url": "https://gloria0021.github.io/sitter/",
+     "directory_name": "sitter",
+     "category": 6
+    },
+    {
+     "board_name": "飼い主の謎行動",
+     "category_order": 6,
+     "category_name": "飼い主",
+     "url": "https://gloria0021.github.io/mystery/",
+     "directory_name": "mystery",
+     "category": 6
+    }
+   ]
+  },
+  {
+   "category_name": "趣味",
+   "category_total": 10,
+   "category_content": [
+    {
+     "board_name": "歌",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/songs/",
+     "directory_name": "songs",
+     "category": 7
+    },
+    {
+     "board_name": "写真",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/photo/",
+     "directory_name": "photo",
+     "category": 7
+    },
+    {
+     "board_name": "宝物集め",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/collection/",
+     "directory_name": "collection",
+     "category": 7
+    },
+    {
+     "board_name": "迷路",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/maze/",
+     "directory_name": "maze",
+     "category": 7
+    },
+    {
+     "board_name": "読書",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/books/",
+     "directory_name": "books",
+     "category": 7
+    },
+    {
+     "board_name": "映画",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/movies/",
+     "directory_name": "movies",
+     "category": 7
+    },
+    {
+     "board_name": "ゲーム",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/games/",
+     "directory_name": "games",
+     "category": 7
+    },
+    {
+     "board_name": "工作",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/craft/",
+     "directory_name": "craft",
+     "category": 7
+    },
+    {
+     "board_name": "料理",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/cooking/",
+     "directory_name": "cooking",
+     "category": 7
+    },
+    {
+     "board_name": "星空",
+     "category_order": 7,
+     "category_name": "趣味",
+     "url": "https://gloria0021.github.io/stars/",
+     "directory_name": "stars",
+     "category": 7
+    }
+   ]
+  },
+  {
+   "category_name": "仲間",
+   "category_total": 8,
+   "category_content": [
+    {
+     "board_name": "ハムスター",
+     "category_order": 8,
+     "category_name": "仲間",
+     "url": "https://gloria0021.github.io/hamster/",
+     "directory_name": "hamster",
+     "category": 8
+    },
+    {
+     "board_name": "デグー",
+     "category_order": 8,
+     "category_name": "仲間",
+     "url": "https://gloria0021.github.io/degu/",
+     "directory_name": "degu",
+     "category": 8
+    },
+    {
+     "board_name": "モルモット",
+     "category_order": 8,
+     "category_name": "仲間",
+     "url": "https://gloria0021.github.io/guinea/",
+     "directory_name": "guinea",
+     "category": 8
+    },
+    {
+     "board_name": "チンチラ",
+     "category_order": 8,
+     "category_name": "仲間",
+     "url": "https://gloria0021.github.io/chinchilla/",
+     "directory_name": "chinchilla",
+     "category": 8
+    },
+    {
+     "board_name": "ハリネズミ",
+     "category_order": 8,
+     "category_name": "仲間",
+     "url": "https://gloria0021.github.io/hedgehog/",
+     "directory_name": "hedgehog",
+     "category": 8
+    },
+    {
+     "board_name": "野ネズミ",
+     "category_order": 8,
+     "category_name": "仲間",
+     "url": "https://gloria0021.github.io/fieldmouse/",
+     "directory_name": "fieldmouse",
+     "category": 8
+    },
+    {
+     "board_name": "小鳥",
+     "category_order": 8,
+     "category_name": "仲間",
+     "url": "https://gloria0021.github.io/birds/",
+     "directory_name": "birds",
+     "category": 8
+    },
+    {
+     "board_name": "ネコ（要注意）",
+     "category_order": 8,
+     "category_name": "仲間",
+     "url": "https://gloria0021.github.io/cats/",
+     "directory_name": "cats",
+     "category": 8
+    }
+   ]
+  },
+  {
+   "category_name": "ニュース",
+   "category_total": 7,
+   "category_content": [
+    {
+     "board_name": "速報",
+     "category_order": 9,
+     "category_name": "ニュース",
+     "url": "https://gloria0021.github.io/news/",
+     "directory_name": "news",
+     "category": 9
+    },
+    {
+     "board_name": "天気",
+     "category_order": 9,
+     "category_name": "ニュース",
+     "url": "https://gloria0021.github.io/weather/",
+     "directory_name": "weather",
+     "category": 9
+    },
+    {
+     "board_name": "新商品",
+     "category_order": 9,
+     "category_name": "ニュース",
+     "url": "https://gloria0021.github.io/products/",
+     "directory_name": "products",
+     "category": 9
+    },
+    {
+     "board_name": "地域",
+     "category_order": 9,
+     "category_name": "ニュース",
+     "url": "https://gloria0021.github.io/local/",
+     "directory_name": "local",
+     "category": 9
+    },
+    {
+     "board_name": "科学",
+     "category_order": 9,
+     "category_name": "ニュース",
+     "url": "https://gloria0021.github.io/science/",
+     "directory_name": "science",
+     "category": 9
+    },
+    {
+     "board_name": "歴史",
+     "category_order": 9,
+     "category_name": "ニュース",
+     "url": "https://gloria0021.github.io/history/",
+     "directory_name": "history",
+     "category": 9
+    },
+    {
+     "board_name": "季節の話題",
+     "category_order": 9,
+     "category_name": "ニュース",
+     "url": "https://gloria0021.github.io/topics/",
+     "directory_name": "topics",
+     "category": 9
+    }
+   ]
+  },
+  {
+   "category_name": "雑談",
+   "category_total": 12,
+   "category_content": [
+    {
+     "board_name": "なんでも",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/chat/",
+     "directory_name": "chat",
+     "category": 10
+    },
+    {
+     "board_name": "質問",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/questions/",
+     "directory_name": "questions",
+     "category": 10
+    },
+    {
+     "board_name": "相談",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/advice/",
+     "directory_name": "advice",
+     "category": 10
+    },
+    {
+     "board_name": "愚痴",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/rants/",
+     "directory_name": "rants",
+     "category": 10
+    },
+    {
+     "board_name": "自慢",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/brag/",
+     "directory_name": "brag",
+     "category": 10
+    },
+    {
+     "board_name": "ポエム",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/poems/",
+     "directory_name": "poems",
+     "category": 10
+    },
+    {
+     "board_name": "夢の話",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/dreams/",
+     "directory_name": "dreams",
+     "category": 10
+    },
+    {
+     "board_name": "初心者",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/newbies/",
+     "directory_name": "newbies",
+     "category": 10
+    },
+    {
+     "board_name": "実況",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/live/",
+     "directory_name": "live",
+     "category": 10
+    },
+    {
+     "board_name": "雑学",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/trivia/",
+     "directory_name": "trivia",
+     "category": 10
+    },
+    {
+     "board_name": "おもしろ",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/funny/",
+     "directory_name": "funny",
+     "category": 10
+    },
+    {
+     "board_name": "深夜の雑談",
+     "category_order": 10,
+     "category_name": "雑談",
+     "url": "https://gloria0021.github.io/latenight/",
+     "directory_name": "latenight",
+     "category": 10
+    }
+   ]
+  }
+ ]
+}
